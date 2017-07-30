@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31392" started-at="2017-07-30T07:29:41Z" finished-at="2017-07-30T07:30:12Z">
+  <suite name="Suite" duration-ms="28998" started-at="2017-07-30T07:53:12Z" finished-at="2017-07-30T07:53:41Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31392" started-at="2017-07-30T07:29:41Z" finished-at="2017-07-30T07:30:12Z">
+    <test name="Test" duration-ms="28998" started-at="2017-07-30T07:53:12Z" finished-at="2017-07-30T07:53:41Z">
       <class name="demo_20140919.Appium_demo">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="beforeTest" is-config="true" duration-ms="24289" started-at="2017-07-30T14:29:41Z" finished-at="2017-07-30T14:30:05Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="beforeTest" is-config="true" duration-ms="21525" started-at="2017-07-30T14:53:12Z" finished-at="2017-07-30T14:53:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="f" duration-ms="2043" started-at="2017-07-30T14:30:05Z" finished-at="2017-07-30T14:30:07Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="f" duration-ms="3082" started-at="2017-07-30T14:53:34Z" finished-at="2017-07-30T14:53:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="afterTest" is-config="true" duration-ms="4964" started-at="2017-07-30T14:30:07Z" finished-at="2017-07-30T14:30:12Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo_20140919.Appium_demo@1b0375b3]" name="afterTest" is-config="true" duration-ms="4305" started-at="2017-07-30T14:53:37Z" finished-at="2017-07-30T14:53:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
